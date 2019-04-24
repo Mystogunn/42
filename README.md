@@ -1,2 +1,2 @@
-# libft
+# 42
 42 project
